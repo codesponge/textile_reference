@@ -1,0 +1,9 @@
+#TO USE
+1.
+in textile_reference.rb modify the line
+THE_HOST_URL = 'http://textilereference.heroku.com'
+to point to your server's url.  (Notice there is no trailng '/')
+
+2.
+start up the app
+ruby textile_reference.rb
